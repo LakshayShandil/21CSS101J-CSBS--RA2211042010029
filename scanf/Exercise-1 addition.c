@@ -1,7 +1,7 @@
 #include <stdio.h>
 void main(){
   int a,b,c;
-  printf("give an integer:");
+  printf("give first integer:");
     scanf("%d",&a);
   printf("give second integer:");
   scanf("%d",&b);
