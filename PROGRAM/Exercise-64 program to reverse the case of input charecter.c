@@ -2,7 +2,6 @@
 #include<ctype.h> 
 int main()
 {
-  printf("Registration number = RA2211042010033"\n);
   char alphabet;
   printf("Enter an alphabet : t");
   putchar('\n');  
